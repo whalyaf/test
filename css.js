@@ -1,3 +1,3 @@
 <script>
-    console.log('hello en lesson1 y se pasara a 2');
+    console.log('de 1 a master');
 </script>
