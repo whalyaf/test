@@ -1,3 +1,3 @@
 <script>
-    console.log('hello en master y se pasara a branch');
+    console.log('hello en branch y se pasara a master');
 </script>
