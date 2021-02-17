@@ -1,3 +1,3 @@
 <script>
-    console.log('de master a 1 y 2');
+    console.log('de 2 a 1');
 </script>
