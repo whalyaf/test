@@ -1,3 +1,3 @@
 <script>
-    console.log('de 2 a 1');
+    console.log('lesson_2');
 </script>
