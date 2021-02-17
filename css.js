@@ -1,3 +1,3 @@
 <script>
-    console.log('de master a 1 y 2');
+    console.log('este es el css de master');
 </script>
